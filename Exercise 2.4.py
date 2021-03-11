@@ -1,5 +1,4 @@
 #menampilkan informasi program
-
 print("Konversi suhu (Fahrenheit ke Celcius)")
 
 #input suhu dalam fahrenheit

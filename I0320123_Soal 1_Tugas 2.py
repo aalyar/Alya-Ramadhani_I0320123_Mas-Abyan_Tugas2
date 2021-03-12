@@ -43,5 +43,6 @@ print("Konversi suhu (Reamur ke Kelvin)")
 
 R = float(input("Masukkan suhu (Reamur): "))
 K = (5/4 * R) + 273
+
 print("Reamur: ", R)
 print("Kelvin: ", K)

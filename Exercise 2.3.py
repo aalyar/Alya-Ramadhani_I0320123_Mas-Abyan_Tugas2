@@ -13,5 +13,5 @@ luas_lingkaran = 3.14 * (r ** 2)
 keliling_lingkaran = 2 * 3.14 * r
 
 # menampilkan hasil perhitungan kelayar
-print("luas lingkaran:", luas_lingkaran)
-print("keliling lingkaran:", keliling_lingkaran)
+print("luas lingkaran: ", luas_lingkaran)
+print("keliling lingkaran: ", keliling_lingkaran)

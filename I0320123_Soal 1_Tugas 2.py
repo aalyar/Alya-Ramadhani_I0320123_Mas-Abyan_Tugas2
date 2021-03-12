@@ -31,8 +31,8 @@ print("---------------")
 print("Konversi suhu (Celcius ke Fahrenheit)")
 
 C = float(input("Masukkan suhu (Celcius): "))
-
 F = (9/5 * C) + 32
+
 print ("Celcius: ", C)
 print("Fahrenheit: ", F)
 
@@ -42,7 +42,6 @@ print("---------------")
 print("Konversi suhu (Reamur ke Kelvin)")
 
 R = float(input("Masukkan suhu (Reamur): "))
-
 K = (5/4 * R) + 273
 print("Reamur: ", R)
 print("Kelvin: ", K)

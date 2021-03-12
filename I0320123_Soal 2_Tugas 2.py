@@ -35,5 +35,4 @@ print("Saya merupakan seorang ", Pekerjaan, "di ", Tempat_kuliah, "pada fakultas
 print("Motto hidup saya yaitu ", Motto_hidup)
 print("Saya sangat suka ", Hobi)
 print("Tinggi badan saya sekarang adalah ", Tinggi_badan, "cm", "dan berat badan saya ", Berat_badan, "kilogram ")
-print("Saya sangat suka dengan ", Makanan_favorit, "dan ", Minuman_favorit, "karena menurut saya keduanya memiliki rasa yang sangat enak")
-
+print("Saya sangat suka ", Makanan_favorit, "dan ", Minuman_favorit, "karena menurut saya keduanya memiliki rasa yang sangat enak")
